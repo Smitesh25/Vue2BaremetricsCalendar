@@ -1,6 +1,7 @@
 <h1 align="center">Vue Baremetrics Calendar</h1>
 
 <p align="center">
+![logo](https://user-images.githubusercontent.com/58392085/119223857-6485d100-bb19-11eb-923f-d1c01e9b77f3.png)
 
 <img src="https://img.shields.io/badge/made%20by-silentlad-blue.svg" >
 
